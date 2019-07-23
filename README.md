@@ -1,8 +1,8 @@
-Set of perturbations on on images from a camera embedded on a self-driving car
-====================================================
+Set of perturbations on images from a camera embedded on a self-driving car
+------------------------------------------------------------
 
 
-* **images** folder contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. 
+* (Images)[https://dropit.uni.lu/invitations?share=c54e0359be3e26a7a7c0] file contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. Thus, the zip file contains both normal and abnormal images.
 
 * The normal images are extracted from the video **camera/camera_right.mp4**.
 
@@ -16,7 +16,7 @@ Set of perturbations on on images from a camera embedded on a self-driving car
 |2   |Insertion of a white image                     | frame000350.png    			 |
 |3   |Blurred image                    | frame000400.png    			 |
 |4   |Image from the past           | frame000450.png    			 | 
-|5   |Successive same images   | frame000501.png jusqu'a frame000505.png|
+|5   |Successive same images   | frame000501.png until frame000505.png|
 |6   |Flooding black images     | frame000550.png  to frame000560.png    |
 |7   |Blur image (-blur 0x8)    | frame002000.png                        |
 |8   |Modified image (Adding a black rectangle)           | frame002600.png                        |
@@ -35,7 +35,11 @@ Here is an example of scenarios used in the paper [1]
 
 
 
-
+* The original data (rosbag file) is from (Udacity)[https://scottontechnology.com/exploring-udacity-40gb-driving-data/].
+	* For exporting data from rosbag file. You can use the following links:
+		* https://wiki.ros.org/rosbag/Tutorials/Exporting%20image%20and%20video%20data
+		* https://gist.github.com/wngreene/835cda68ddd9c5416defce876a4d7dd9
+		
 
 
 
