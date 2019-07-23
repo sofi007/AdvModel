@@ -15,7 +15,7 @@ Set of perturbations on images from a camera embedded on a self-driving car
 |2   |Insertion of a white image                     | frame000350.png    			 |
 |3   |Blurred image                    | frame000400.png    			 |
 |4   |Image from the past           | frame000450.png    			 | 
-|5   |Successive same images   | frame000501.png until frame000505.png|
+|5   |Successive same images   | frame000501.png to frame000505.png|
 |6   |Flooding black images     | frame000550.png  to frame000560.png    |
 |7   |Blur image (-blur 0x8)    | frame002000.png                        |
 |8   |Modified image (Adding a black rectangle)           | frame002600.png                        |
