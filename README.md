@@ -5,7 +5,7 @@ Set of perturbations on images from a camera embedded on a self-driving car
 * [Images](https://dropit.uni.lu/invitations?share=c54e0359be3e26a7a7c0) file contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. Thus, the zip file contains both normal and abnormal images.
 
 
-* We inject the following perturbations on rosbag file in **rosbag/**. Some of the perturbations are made manually.
+* We inject the following perturbations on rosbag file. Some of the perturbations are made manually.
 
 
 
