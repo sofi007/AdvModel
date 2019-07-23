@@ -2,9 +2,8 @@ Set of perturbations on images from a camera embedded on a self-driving car
 ------------------------------------------------------------
 
 
-* (Images)[https://dropit.uni.lu/invitations?share=c54e0359be3e26a7a7c0] file contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. Thus, the zip file contains both normal and abnormal images.
+* [Images](https://dropit.uni.lu/invitations?share=c54e0359be3e26a7a7c0) file contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. Thus, the zip file contains both normal and abnormal images.
 
-* The normal images are extracted from the video **camera/camera_right.mp4**.
 
 * We inject the following perturbations on rosbag file in **rosbag/**. Some of the perturbations are made manually.
 
@@ -35,7 +34,7 @@ Here is an example of scenarios used in the paper [1]
 
 
 
-* The original data (rosbag file) is from (Udacity)[https://scottontechnology.com/exploring-udacity-40gb-driving-data/].
+* The original data (rosbag file) is from [Udacity](https://scottontechnology.com/exploring-udacity-40gb-driving-data/).
 	* For exporting data from rosbag file. You can use the following links:
 		* https://wiki.ros.org/rosbag/Tutorials/Exporting%20image%20and%20video%20data
 		* https://gist.github.com/wngreene/835cda68ddd9c5416defce876a4d7dd9
