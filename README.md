@@ -2,7 +2,7 @@ Set of perturbations on images from a camera embedded on a self-driving car
 ------------------------------------------------------------
 
 
-* [Images](https://dropit.uni.lu/invitations?share=c54e0359be3e26a7a7c0) file contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. Thus, the zip file contains both normal and abnormal images.
+* [Images](https://drive.google.com/open?id=171EgBNTDsFngSBHkwqi1U1he2PNoAzQc) file contains all images with pertrubations of the camera embedeed on (on the right of) the self-driving car. Thus, the zip file contains both normal and abnormal images.
 
 
 * We inject the following perturbations on rosbag file. Some of the perturbations are made manually.
@@ -24,8 +24,6 @@ Set of perturbations on images from a camera embedded on a self-driving car
 |11  |Modified image (in the traffic lights)   | frame001470.png                        |
 
 
-
-Here is an example of scenarios used in the paper [1]
 
 
 
@@ -49,7 +47,7 @@ Here is an example of scenarios used in the paper [1]
 
 ------------------------------------------------------------
 
-[1] Sofiane Lagraa, Maxime Cailac, Sean Rivera, Frédéric Beck, Radu State: Real-Time Attack Detection on Robot Cameras: A Self-Driving Car Application. IRC 2019: 102-109
+
 
 
 
