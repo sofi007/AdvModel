@@ -7,6 +7,8 @@ Set of perturbations on images from a camera embedded on a self-driving car
 
 * We inject the following perturbations on rosbag file. Some of the perturbations are made manually.
 
+* Please find the set of images according to the following table: https://bit.ly/2WjrO5u
+
 
 
 | Scenario ID |Perturbation | Image |
